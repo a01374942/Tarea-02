@@ -6,7 +6,7 @@
 # A partir de aquí escribe tu programa
 
 hombres = int(input("Dame el numero de hombres dentro de la clase: "))
-mujeres = int(input("Dame el numero de mujeres dentro de la clase : "))
+mujeres = int(input("Dame el numero de mujeres dentro de la clase: "))
 totala = (hombres + mujeres)
 porcentajeh = (100*hombres)/(totala)
 porcentajem = (100*mujeres)/(totala)
