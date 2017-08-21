@@ -5,3 +5,6 @@
 
 # A partir de aquí escribe tu programa
 
+a= float(input("dame un numero"))
+b= (a)+(km)
+print("h",b)

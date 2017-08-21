@@ -1,18 +1,14 @@
 #encoding: UTF-8
 
 # Autor:Angel Roberto Pesado Bartolo, A01374942
-# Descripcion: Imprimir mi información personal a base de un código de salidas.
+# Descripcion: Pedir al usuario la velocidad de un auto e indicar cuanta distancia recorre en 6 y 10 horas, además de indicar cuanto tiempo tarda en recorrer 500km
 
 # A partir de aquí escribe tu programa
-a = str ("Angel Roberto Pesado Bartolo")
-b = str ("A01374942")
-c = str ("ISDR")
-d = str ("Prepa Tec, Programa Bicultural")
-e = str("Me gusta el futbol, le voy a las Chivas, tambien me gusta la electronica y me gusta ver series.")
 
-print("Mi nombre es:",a)
-print("Matricula:",b)
-print("Carrera:",c)
-print("Estudie en:",d)
-print("Descripcion:",e)
-
+a=float(input("Dame la velocidad del auto: "))
+b= a*6
+print("Tu distancia en 6 horas es: ",b,"km")
+c= a*10
+d= 500/a
+print("Tu distancia en 10 horas es: ",c,"km")
+print("En este tiempo recorreras 500 km: ",d,"horas")
