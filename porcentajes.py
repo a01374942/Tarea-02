@@ -1,6 +1,6 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
+# Autor: Angel Roberto Pesado Bartolo, A01374942
 # Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
 
 # A partir de aquí escribe tu programa
