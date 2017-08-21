@@ -7,7 +7,7 @@
 
 a=float(input("Dame la velocidad del auto: "))
 b= a*6
-print("Tu distancia en 6 horas es: ",b,"km")
+print("Tu distancia en 6 horas es: ",b,"Km")
 c= a*10
 d= 500/a
 print("Tu distancia en 10 horas es: ",c,"km")
