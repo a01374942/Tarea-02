@@ -6,14 +6,14 @@
 
 # A partir de aquí escribe tu programa
 
-a = str ("Angel Roberto Pesado Bartolo")
-b = str ("A01374942")
-c = str ("ISDR")
-d = str ("Prepa Tec, Programa Bicultural")
-e = str("Me gusta el futbol, le voy a las Chivas, tambien me gusta la electronica y me gusta ver series.")
+nombre = str ("Angel Roberto Pesado Bartolo")
+matricula = str ("A01374942")
+carrera = str ("ISDR")
+prepa = str ("Prepa Tec, Programa Bicultural")
+hobbies = str("Me gusta el futbol, le voy a las Chivas, tambien me gusta la electronica y me gusta ver series.")
 
-print("Mi nombre es:",a)
-print("Matricula:",b)
-print("Carrera:",c)
-print("Estudie en:",d)
-print("Descripcion:",e)
+print("Mi nombre es:",nombre)
+print("Matricula:",matricula)
+print("Carrera:",carrera)
+print("Estudie en:",prepa)
+print("Descripcion:",hobbies)
